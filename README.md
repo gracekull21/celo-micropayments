@@ -1,1 +1,1 @@
-# celo-micropayments
+# Harmonio
